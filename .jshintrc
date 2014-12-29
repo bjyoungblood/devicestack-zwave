@@ -1,0 +1,24 @@
+{
+  "camelcase"     : false,
+  "curly"         : true,
+  "eqeqeq"        : true,
+  "eqnull"        : true,
+  "freeze"        : true,
+  "funcscope"     : true,
+  "globalstrict"  : true,
+  "immed"         : true,
+  "indent"        : 2,
+  "latedef"       : true,
+  "maxdepth"      : 3,
+  "maxstatements" : 15,
+  "maxlen"        : 100,
+  "newcap"        : false, // Turning this on makes it annoying to use capital tags in JSX
+  "node"          : true,
+  "noempty"       : true,
+  "nonew"         : true,
+  "quotmark"      : false, // JSXTransformer breaks this. (https://github.com/facebook/react/issues/445)
+  "strict"        : true,
+  "trailing"      : true,
+  "unused"        : "vars",
+  "predef"        : ["-Promise"]
+}

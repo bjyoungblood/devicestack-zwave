@@ -1,0 +1,28 @@
+{
+  "name": "devicestack-zwave",
+  "version": "0.0.1",
+  "description": "DeviceStack implementation for Z-Wave serial devices",
+  "main": "index.js",
+  "dependencies": {
+    "devicestack": "^1.10.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bjyoungblood/devicestack-zwave.git"
+  },
+  "keywords": [
+    "devicestack",
+    "z-wave",
+    "zwave"
+  ],
+  "author": "Ben Youngblood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjyoungblood/devicestack-zwave/issues"
+  },
+  "homepage": "https://github.com/bjyoungblood/devicestack-zwave"
+}
